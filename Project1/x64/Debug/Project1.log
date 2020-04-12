@@ -1,0 +1,59 @@
+﻿  源.cpp
+c:\users\harry\source\repos\project1\project1\源.cpp(43): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\harry\source\repos\project1\project1\源.cpp(44): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\harry\source\repos\project1\project1\源.cpp(53): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\harry\source\repos\project1\project1\源.cpp(54): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\harry\source\repos\project1\project1\源.cpp(63): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\harry\source\repos\project1\project1\源.cpp(64): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\harry\source\repos\project1\project1\源.cpp(73): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\harry\source\repos\project1\project1\源.cpp(74): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\harry\source\repos\project1\project1\源.cpp(145): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+c:\users\harry\source\repos\project1\project1\源.cpp(176): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\harry\source\repos\project1\project1\源.cpp(198): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+c:\users\harry\source\repos\project1\project1\源.cpp(199): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+c:\users\harry\source\repos\project1\project1\源.cpp(200): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+  Project1.vcxproj -> C:\Users\Harry\source\repos\Project1\x64\Debug\Project1.exe
